@@ -64,9 +64,9 @@ const MobileNav = () => {
                 {locations.map((location) => (<li key={location.title}><Link href={location.href}>{location.title}</Link></li>))}
               </ul>
             </div>
-            <Link href={"/report"} className="font-semibold hover:text-primary">
+            {/* <Link href={"/report"} className="font-semibold hover:text-primary">
               GENERATE REPORT
-            </Link>
+            </Link> */}
           </div>
         </SheetDescription>
       </SheetContent>
