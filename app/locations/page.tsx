@@ -10,12 +10,12 @@ export default function LocationsPage() {
 											<h2>Location coverage</h2>
 											<p>Select a city to see detailed climate information & analytics</p>
 											<ul className="divided">
-												<li><h3><a href="/location/indonesia/Jakarta">Jakarta</a></h3></li>
-												<li><h3><a href="/location/nigeria/Lagos">Lagos</a></h3></li>
-												<li><h3><a href="/location/india/Mumbai">Mumbai</a></h3></li>
-												<li><h3><a href="/location/united-states/New-York">New York</a></h3></li>
-												<li><h3><a href="/location/united-kingdom/Oxford">Oxford</a></h3></li>
-												<li><h3><a href="/location/united-states/San-Francisco">San Francisco</a></h3></li>
+												<li><h3><a href="/location/indonesia/jakarta">Jakarta</a></h3></li>
+												<li><h3><a href="/location/nigeria/lagos">Lagos</a></h3></li>
+												<li><h3><a href="/location/india/mumbai">Mumbai</a></h3></li>
+												<li><h3><a href="/location/united-states/new-York">New York</a></h3></li>
+												<li><h3><a href="/location/united-kingdom/oxford">Oxford</a></h3></li>
+												<li><h3><a href="/location/united-states/san-francisco">San Francisco</a></h3></li>
 											</ul>
 										</header>
 									</section>
